@@ -1,0 +1,112 @@
+[
+    {
+      "playerid": 1,
+      "player_name": "Virat Kohli",
+      "player_img": "https://i.ibb.co.com/rpM3DcH/1.jpg",
+      "country": "India",
+      "type": "Batsman",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "Leg-spain",
+      "rating": 9.8,
+      "bidding_price": 98750
+    },
+    {
+      "playerid": 2,
+      "player_name": "Pat Cummins",
+      "player_img": "https://i.ibb.co.com/R2Syqm7/2.jpg",
+      "country": "Australia",
+      "type": "Bowler",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "Right-spain",
+      "rating": 9.2,
+      "bidding_price": 76200
+    },
+    {
+      "playerid": 3,
+      "player_name": "Joe Root",
+      "player_img": "https://i.ibb.co.com/Gdmy05Z/3.jpg",
+      "country": "England",
+      "type": "Batsman",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "N/A",
+      "rating": 9.4,
+      "bidding_price": 94500
+    },
+    {
+      "playerid": 4,
+      "player_name": "Ben Stokes",
+      "player_img": "https://i.ibb.co.com/Cvh08GB/4.jpg",
+      "country": "England",
+      "type": "All-rounder",
+      "batting_style": "Left-hand-bat",
+      "bolling_style": "Leg-spain",
+      "rating": 9.5,
+      "bidding_price": 81500
+    },
+    {
+      "playerid": 5,
+      "player_name": "Babar Azam",
+      "player_img": "https://i.ibb.co.com/H20Pf0r/5.jpg",
+      "country": "Pakistan",
+      "type": "Batsman",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "N/A",
+      "rating": 9.7,
+      "bidding_price": 87000
+    },
+    {
+      "playerid": 6,
+      "player_name": "Rashid Khan",
+      "player_img": "https://i.ibb.co.com/30twMK4/6.jpg",
+      "country": "Afghanistan",
+      "type": "Bowler",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "Right-spain",
+      "rating": 9.1,
+      "bidding_price": 69250
+    },
+    {
+      "playerid": 7,
+      "player_name": "Kane Williamson",
+      "player_img": "https://i.ibb.co.com/qkHC2rR/7.jpg",
+      "country": "New Zealand",
+      "type": "Batsman",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "Leg-spain",
+      "rating": 9.3,
+      "bidding_price": 82000
+    },
+    {
+      "playerid": 8,
+      "player_name": "David Warner",
+      "player_img": "https://i.ibb.co.com/8Ms1WK7/8.jpg",
+      "country": "Australia",
+      "type": "Batsman",
+      "batting_style": "Left-hand-bat",
+      "bolling_style": "Right-spain",
+      "rating": 9.2,
+      "bidding_price": 76500
+    },
+    {
+      "playerid": 9,
+      "player_name": "Jasprit Bumrah",
+      "player_img": "https://i.ibb.co.com/nfYz5bp/9.jpg",
+      "country": "India",
+      "type": "Bowler",
+      "batting_style": "Right-hand-bat",
+      "bolling_style": "N/A",
+      "rating": 9.0,
+      "bidding_price": 71500
+    },
+    {
+      "playerid": 10,
+      "player_name": "Shakib Al Hasan",
+      "player_img": "https://i.ibb.co.com/JCw69HP/10.jpg",
+      "country": "Bangladesh",
+      "type": "All-rounder",
+      "batting_style": "Left-hand-bat",
+      "bolling_style": "Right-spain",
+      "rating": 9.4,
+      "bidding_price": 88000
+    }
+]
